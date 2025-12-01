@@ -1,4 +1,4 @@
-package progfina.todo_list;
+package com.todo_list;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
